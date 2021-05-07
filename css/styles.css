@@ -23,7 +23,7 @@
 body {
     
     background-image: url("../assets/images/200319162747-family-cooking-stock-super-tease.jpg");
-    height: 90vh;
+    height: 120vh;
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -31,15 +31,10 @@ body {
     
 }
 
-.blurb {
-     background-color:dodgerblue;
-     opacity: 0.6;
-     border-radius: 20px;
-     text-align: center;
-}
+
 h1  {
         color: black;
-        text-align: center;
+        text-align: right;
         font-weight: 900; 
         font-size: 75px;
         background-color: dodgerblue;

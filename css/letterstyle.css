@@ -41,6 +41,7 @@ body {
 
 
 .letter {
+    top: 300px;
     width: 75vw;
     height: 150vh;
     font-family: 'MyWebFont', Fallback, sans-serif;
@@ -59,7 +60,7 @@ body {
     font-size: 30px;
     font-weight:bolder;
     position: relative;
-bottom: 75px;
+    bottom: 75px;
     word-wrap: break-word;
     padding:150px;
     
